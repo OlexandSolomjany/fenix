@@ -1,1 +1,3 @@
 # fenix
+
+pip install fastapi
